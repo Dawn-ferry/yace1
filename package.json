@@ -1,0 +1,19 @@
+{
+  "name": "yace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "压测",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "使用node技术进行压测",
+  "dependencies": {
+    "autocannon": "^8.0.0",
+    "node-cron": "^3.0.3"
+  }
+}
